@@ -104,7 +104,7 @@ while True:
         print("ERROR: INVALID COMMAND")
     else:
         if x == "exit":
-            print("for source code, visit \033[92mhttps://github.com/sonikar/unix-terminal-simulator\033[0m")
+            print("for source code, visit \033[92mhttps://github.com/sonikaratok/unix-terminal-simulator\033[0m")
             print("ciao")
             break
 
